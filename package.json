@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "jsFighter server software",
   "dependencies": {
-    "jquery": "^3.2.1",
+    "jquery": "^3.4.0",
     "open": "0.0.5",
     "socket.io": "latest",
     "express": "latest"
